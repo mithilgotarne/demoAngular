@@ -3,7 +3,7 @@ version: 0.2
 env:
     variables:
         S3_BUCKET: "mxg180018"
-        APP_NAME: "demoAngular"
+        APP_NAME: "demoApp"
         BUILD_ENV : "prod"
 
 phases:
